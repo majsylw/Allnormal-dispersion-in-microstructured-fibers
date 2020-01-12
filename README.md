@@ -23,7 +23,7 @@ microstructured silica cladding with Ge-doped silica core allows to generate a s
 The great advantage of this design is compatibily with telecommunication technology.
 
 In this work we determine the optimal pumping conditions such as pulse peak power, 
-central wavelength and duration for optimized microstructured fibers proposed in (J.Biedrzycki, Opto-Electronics Review 26 (1):57-62, 2018). 
+central wavelength and duration for optimized microstructured fibers proposed in [(J.Biedrzycki, Opto-Electronics Review 26 (1):57-62, 2018)](https://www.sciencedirect.com/science/article/abs/pii/S1230340217300446). 
 To study the influence of pumping parameters on the SC characteristics (its width and flatness) we use 
 a self-developed software solving the generalized nonlinear Schr\"odinger equation (GNLSE) 
 with the fourth-order Runge-Kutta in the Interaction Picture (RK4IP) method. 
