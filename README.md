@@ -39,13 +39,17 @@ Our simulations show that ANDi SC generated in proposed fibers covers whole tran
 * Comsol
 
 ## Citation
-
 ```
-@article{MajchrowskaICNP:18,
-    author = {Sylwia Majchrowska and Karol Tarnowski},
-    journal = {11th International Conference on Nanophotonics, Wrocław, Poland: Oficyna Wydawnicza Politechniki Wrocławskiej},
-    title = {Normal dispersion supercontinuum reaching mid-infrared in silica microstructured optical fibers}
-    year = {2018},
+@proceedings{icnp:18,
+  author =       {Sylwia Majchrowska and Karol Tarnowski},
+  title =        {Normal dispersion supercontinuum reaching mid-infrared in silica microstructured optical fibers}
+  booktitle =    {11th International Conference on Nanophotonics},
+  publisher =    {Oficyna Wydawnicza Politechniki Wrocławskiej}
+  venue =        {Wrocław, Poland},
+  month =        {July},
+  year =         {2018},
+  pages =        {155--155},
+  isbn =         {978-83-7493-022-2},
 }
 ```
 
